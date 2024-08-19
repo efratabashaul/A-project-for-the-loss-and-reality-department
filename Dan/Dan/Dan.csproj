@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CDAB906B-FFEF-4EDD-B298-24267FFD1FE0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Dan</RootNamespace>
+    <AssemblyName>Dan</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\Dal.cs" />
+    <Compile Include="DB\BusDB.cs" />
+    <Compile Include="DB\ClientDB.cs" />
+    <Compile Include="DB\DepartmentDB.cs" />
+    <Compile Include="DB\DriverDB.cs" />
+    <Compile Include="DB\GeneralDB.cs" />
+    <Compile Include="DB\KindLDB.cs" />
+    <Compile Include="DB\LineDB.cs" />
+    <Compile Include="DB\LineDDB.cs" />
+    <Compile Include="DB\LostDB.cs" />
+    <Compile Include="DB\SideDB.cs" />
+    <Compile Include="DB\TravelingDB.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmBus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmBus.Designer.cs">
+      <DependentUpon>FrmBus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmCall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmCall.Designer.cs">
+      <DependentUpon>FrmCall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmClient.Designer.cs">
+      <DependentUpon>FrmClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmDan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmDan.Designer.cs">
+      <DependentUpon>FrmDan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmDepartment.Designer.cs">
+      <DependentUpon>FrmDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmDriver.Designer.cs">
+      <DependentUpon>FrmDriver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmEnter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmEnter.Designer.cs">
+      <DependentUpon>FrmEnter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmF.Designer.cs">
+      <DependentUpon>FrmF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmKindL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmKindL.Designer.cs">
+      <DependentUpon>FrmKindL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmLine.Designer.cs">
+      <DependentUpon>FrmLine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmLineD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmLineD.Designer.cs">
+      <DependentUpon>FrmLineD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmLost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmLost.Designer.cs">
+      <DependentUpon>FrmLost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmSide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmSide.Designer.cs">
+      <DependentUpon>FrmSide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FrmTraveling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FrmTraveling.Designer.cs">
+      <DependentUpon>FrmTraveling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Bus.cs" />
+    <Compile Include="Models\Side.cs" />
+    <Compile Include="Models\Line.cs" />
+    <Compile Include="Models\LineD.cs" />
+    <Compile Include="Models\Traveling.cs" />
+    <Compile Include="Models\Driver.cs" />
+    <Compile Include="Models\Department.cs" />
+    <Compile Include="Models\KindL.cs" />
+    <Compile Include="Models\Lost.cs" />
+    <Compile Include="Models\Client.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\ValidateUtil.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmBus.resx">
+      <DependentUpon>FrmBus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmCall.resx">
+      <DependentUpon>FrmCall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmClient.resx">
+      <DependentUpon>FrmClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmDan.resx">
+      <DependentUpon>FrmDan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmDepartment.resx">
+      <DependentUpon>FrmDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmDriver.resx">
+      <DependentUpon>FrmDriver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmEnter.resx">
+      <DependentUpon>FrmEnter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmF.resx">
+      <DependentUpon>FrmF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmKindL.resx">
+      <DependentUpon>FrmKindL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmLine.resx">
+      <DependentUpon>FrmLine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmLineD.resx">
+      <DependentUpon>FrmLineD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmLost.resx">
+      <DependentUpon>FrmLost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmSide.resx">
+      <DependentUpon>FrmSide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FrmTraveling.resx">
+      <DependentUpon>FrmTraveling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\מצגת1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\לוגו-דן.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\מצגת1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\מצג1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\מצג1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\לוגו-דן.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\מצג1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\לוגו-דן.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\bbbbb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\רקע כחול.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\עע.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\OIP %2842%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\yy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\bus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\Van 26.wmf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\Van 34.wmf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\תקקק.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\light.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\צור קשר.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\צור קשר1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\על חברת דן.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7220f32ba8f5ebe0e342e2336eddaa14.png_wh860.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7220f32ba8f5ebe0e342e2336eddaa14.png_wh8601.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\אוטובוס דן.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\אוטובוס דן1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\תמונה1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\אוטובוס דן2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

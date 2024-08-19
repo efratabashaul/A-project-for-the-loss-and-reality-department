@@ -1,0 +1,199 @@
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csprojAssemblyReference.cache
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Form1.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Properties.Resources.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.GenerateResource.cache
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.CoreCompileInputs.cache
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe.config
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.pdb
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csprojAssemblyReference.cache
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Form1.resources
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmClient.resources
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDepartment.resources
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmKindL.resources
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLost.resources
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Properties.Resources.resources
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.GenerateResource.cache
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.CoreCompileInputs.cache
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.exe
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.pdb
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe.config
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.pdb
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Form1.resources
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmClient.resources
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDepartment.resources
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmKindL.resources
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLost.resources
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Properties.Resources.resources
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.GenerateResource.cache
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.CoreCompileInputs.cache
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.exe
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.pdb
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDriver.resources
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLine.resources
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmSide.resources
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmBus.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe.config
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\bin\Debug\Dan.pdb
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.csprojAssemblyReference.cache
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Form1.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmBus.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmClient.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDepartment.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDriver.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmKindL.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLine.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLost.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmSide.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Properties.Resources.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.GenerateResource.cache
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.CoreCompileInputs.cache
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.exe
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.pdb
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmBus.resources
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDriver.resources
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLine.resources
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmSide.resources
+E:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csprojAssemblyReference.cache
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmF.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmTraveling.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.AssemblyReference.cache
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Form1.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmBus.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmClient.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDepartment.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDriver.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmF.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmKindL.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLine.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLost.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmSide.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmTraveling.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Properties.Resources.resources
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.GenerateResource.cache
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.CoreCompileInputs.cache
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.exe
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.pdb
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe.config
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe
+F:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.pdb
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmF.resources
+D:\יעל\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmTraveling.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe.config
+E:\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe
+E:\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.pdb
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.AssemblyReference.cache
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Form1.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmBus.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmClient.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDepartment.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDriver.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmF.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmKindL.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLine.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLost.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmSide.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmTraveling.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Properties.Resources.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.GenerateResource.cache
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.CoreCompileInputs.cache
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.exe
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.pdb
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLineD.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe.config
+D:\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe
+D:\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.pdb
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmBus.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmClient.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDepartment.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDriver.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmF.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmKindL.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLine.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLineD.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLost.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmSide.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmTraveling.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.exe
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.pdb
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLineD.resources
+G:\מחשבים\יב\יעל אבא שאול\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmEnter.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe.config
+F:\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe
+F:\יעל תכנות\אבידות ומציאות דן\Dan\bin\Debug\Dan.pdb
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.AssemblyReference.cache
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Form1.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmBus.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmClient.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDepartment.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDriver.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmEnter.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmF.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmKindL.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLine.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLineD.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLost.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmSide.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmTraveling.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Properties.Resources.resources
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.GenerateResource.cache
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.CoreCompileInputs.cache
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.exe
+F:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.pdb
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmEnter.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmCall.resources
+D:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDan.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmCall.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDan.resources
+E:\יעל תכנות\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmEnter.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe.config
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\bin\Debug\Dan.pdb
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.csprojAssemblyReference.cache
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Form1.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmBus.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmCall.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmClient.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDan.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDepartment.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDriver.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmEnter.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmF.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmKindL.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLine.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLineD.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLost.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmSide.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmTraveling.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Properties.Resources.resources
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.GenerateResource.cache
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.CoreCompileInputs.cache
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.exe
+D:\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.pdb
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe.config
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\bin\Debug\Dan.exe
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\bin\Debug\Dan.pdb
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.AssemblyReference.cache
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.SuggestedBindingRedirects.cache
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Form1.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmBus.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmCall.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmClient.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDan.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDepartment.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmDriver.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmEnter.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmF.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmKindL.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLine.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLineD.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmLost.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmSide.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Gui.FrmTraveling.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.Properties.Resources.resources
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.GenerateResource.cache
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.csproj.CoreCompileInputs.cache
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.exe
+D:\תכנות יעלי\תכנות יב\אבידות ומציאות דן\אבידות ומציאות דן\Dan\obj\Debug\Dan.pdb
